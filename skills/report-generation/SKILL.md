@@ -1,4 +1,4 @@
 # Report Generation Skill
 
 
-v1.3
+v1.5
